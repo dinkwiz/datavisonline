@@ -2,6 +2,9 @@
 
 
 https://vistools.net/
+Datavisualisation.ch
+Andy Kirk
+
 
 
 1.	A Reader on Data Visualization (Michael Schermann, 2019)
