@@ -1,4 +1,4 @@
-Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/coffee-flavors.csv', function(err, rows){
+Plotly.d3.csv('data.csv', function(err, rows){
   function unpack(rows, key) {
   return rows.map(function(row) { return row[key]});
 }
